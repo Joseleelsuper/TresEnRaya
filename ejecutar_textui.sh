@@ -12,6 +12,6 @@
 read -p "Introduce el nombre del primer jugador: " nombreJugador1
 read -p "Introduce el nombre del segundo jugador: " nombreJugador2
 
-java -cp ./bin:./lib/tresenraya-gui-lib-1.0.1.jar juego.textui.TresEnRaya $nombreJugador1 $nombreJugador2
+java -cp ./bin: juego.textui.TresEnRaya $nombreJugador1 $nombreJugador2
 
 read -p "Press enter to continue"

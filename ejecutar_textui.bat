@@ -11,6 +11,6 @@
 set /p nombreJugador1="Introduce el nombre del primer jugador: "
 set /p nombreJugador2="Introduce el nombre del segundo jugador: "
 
-java -cp .\bin;.\lib\tresenraya-gui-lib-1.0.1.jar juego.textui.TresEnRaya %nombreJugador1% %nombreJugador2%
+java -cp .\bin; juego.textui.TresEnRaya %nombreJugador1% %nombreJugador2%
 
 pause
