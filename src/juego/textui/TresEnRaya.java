@@ -10,7 +10,7 @@ import juego.util.Coordenada;
 /**
  * Jugar al tres en raya en modo texto.
  * 
- * @author <a mailto="jose:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
+ * @author <a href="mailto:jgc1031@alu.ubu.es">José Gallardo Caballero</a>
  * @version 1.0
  * @serial 2024/02/12
  */
