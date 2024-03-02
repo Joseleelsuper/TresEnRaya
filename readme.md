@@ -44,3 +44,12 @@ Si desea contribuir, puede abrir un issue o enviar un pull request. Si desea rea
 # Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Para más información, puede leer el archivo [LICENSE](LICENSE).
+
+# Miembros del Proyecto
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Joseleelsuper"><img src="https://github.com/Joseleelsuper.png" width="100px;" alt=""/><br /><sub><b>Joseleelsuper</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Troyano19"><img src="https://github.com/Troyano19.png" width="100px;" alt=""/><br /><sub><b>Troyano19</b></sub></a></td>
+  </tr>
+</table>
